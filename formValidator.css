@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+
+    border: 2px solid black;
+
+}
+
+.form-control {
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+    position: relative;
+
+}
+
+.form-control input {
+    border: 3 px solid pink;
+    display: block;
+    
+
+
+}
+
+
+
+      
